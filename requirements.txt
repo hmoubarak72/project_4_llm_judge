@@ -1,0 +1,7 @@
+streamlit==1.32.0
+psycopg2-binary==2.9.9
+scikit-learn==1.4.1.post1
+scipy==1.12.0
+numpy==1.26.4
+deepeval==0.21.40
+pytest==8.1.1
